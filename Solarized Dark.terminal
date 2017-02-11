@@ -1213,6 +1213,8 @@
 	</data>
 	<key>Bell</key>
 	<false/>
+	<key>VisualBellOnlyWhenMuted</key>
+	<false/>
 	<key>CursorColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGKSpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
@@ -1299,8 +1301,6 @@
 	</data>
 	<key>FontHeightSpacing</key>
 	<real>1.1</real>
-	<key>ProfileCurrentVersion</key>
-	<real>2.02</real>
 	<key>SelectionColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGKSpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
@@ -1526,11 +1526,7 @@
 	AHAAhQCMALcA4QDjAOUA5wDsAPIA9AD2APsBAw1PDVENVg1hDWoNeA18DYMNjA2RDZ4N
 	oQ2uDbMNuw2+DdAN0w3YAAAAAAAAAgEAAAAAAAAALQAAAAAAAAAAAAAAAAAADdo=
 	</data>
-	<key>UseBoldFonts</key>
-	<false/>
 	<key>UseBrightBold</key>
-	<true/>
-	<key>VisualBell</key>
 	<true/>
 	<key>blackColour</key>
 	<data>
